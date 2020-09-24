@@ -20,7 +20,7 @@ The application currently supports the following flag options:
 
 
 ## To do:
-- [] Use synchronization to avoid closing connection before response
-- [] Let user prepare a text file to choose which IP/ports to scan from
-- [] Support automatic name server resolver
-- [] Exception catching for various scenarios (packets dropped between host & server, connection refused by server, timeout, port is occupied by other process etc)
+- [ ] Use synchronization to avoid closing connection before response
+- [ ] Let user prepare a text file to choose which IP/ports to scan from
+- [ ] Support automatic name server resolver
+- [ ] Exception catching for various scenarios (packets dropped between host & server, connection refused by server, timeout, port is occupied by other process etc)
